@@ -1,0 +1,7 @@
+DESAFIO
+✔ criar condicional com switch case para todas as possibilidades de combinações (pedra com papel, pedra com tesoura...) @done(20-08-29 14:55)
+
+✔ para cada case imprimir mensagem com console.log avisando quem ganhou a partida @done(20-08-29 14:55)
+
+EXTRAS
+✔ botão zerar pontuação @done(20-08-29 15:15)
